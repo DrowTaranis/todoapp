@@ -1,0 +1,37 @@
+{
+    "users": [
+{
+    "userId": 1,
+    "username": "CyberWow32",
+    "password": "p@ssword123"
+},
+
+{
+    "userId": 2,
+    "username": "ComputerDude75",
+    "password": "frogword123"
+},
+{
+    "userId": 3,
+    "username": "DigiBandit4894",
+    "password": "dogword123"
+},
+{
+    "userId": 4,
+    "username": "HippyQueen47",
+    "password": "elfword123"
+},
+{
+    "userId": 5,
+    "username": "Forest",
+    "password": "catword123"
+},
+{
+    "userId": 6,
+    "username": "ForestB",
+    "password": "cowword123"
+}
+
+]
+}
+
